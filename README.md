@@ -1,11 +1,11 @@
-## Handwritten Digit Prediction - Classification Analysis
-# Objective
+# Handwritten Digit Prediction - Classification Analysis
+## Objective
 The objective of this project is to develop a classification model that can accurately predict handwritten digits from images. This project uses the MNIST dataset, a classic benchmark in the field of machine learning, to train and evaluate the model.
 
-# Data Source
+## Data Source
 The dataset used in this project is the MNIST dataset, which contains images of handwritten digits ranging from 0 to 9. It is widely used for tasks related to image classification.
 
-# Project Structure
+## Project Structure
 The project follows these key steps:
 
 - Data Preparation: The MNIST dataset is loaded, and the images are reshaped and preprocessed.
@@ -24,5 +24,5 @@ The project follows these key steps:
 
 - Prediction: The trained model is used to make predictions on new handwritten digit images.
 
-# Usage
+## Usage
 You can use this project as a template for building and evaluating classification models for handwritten digit recognition. The provided code snippets and comments guide you through each step of the process.
